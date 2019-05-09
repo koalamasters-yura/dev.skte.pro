@@ -1,0 +1,8 @@
+User-Agent: *
+Allow: /bitrix/components/
+Allow: /bitrix/cache/
+Allow: /bitrix/js/
+Allow: /bitrix/templates/
+Allow: /bitrix/panel/
+Host: https://skte.pro
+Sitemap: https://skte.pro/sitemap.xml

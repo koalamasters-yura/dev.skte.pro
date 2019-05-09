@@ -1,0 +1,6 @@
+<?
+$sSectionName = "Последние";
+$arDirProperties = Array(
+
+);
+?>
