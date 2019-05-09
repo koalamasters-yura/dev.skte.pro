@@ -7,4 +7,6 @@ $APPLICATION->SetTitle("Test GIT");
     dev branch changes
 </div>
 
+<div>dev branch</div>
+
 <?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>
