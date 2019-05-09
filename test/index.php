@@ -4,7 +4,7 @@ $APPLICATION->SetTitle("Test GIT");
 ?>
 
 <div class="test">
-    GIT test 3
+    GIT test 4 (dev)
 </div>
 
 <?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>

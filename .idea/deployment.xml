@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="skte.pro">
+  <component name="PublishConfigData" serverName="skte.pro" uploadOnCheckin="2640d5f5-3393-4531-a3e3-68570e0154b8">
     <serverData>
       <paths name="skte.pro">
         <serverdata>
@@ -10,5 +10,6 @@
         </serverdata>
       </paths>
     </serverData>
+    <option name="myUploadOnCheckinName" value="skte.pro" />
   </component>
 </project>
