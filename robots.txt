@@ -4,5 +4,6 @@ Allow: /bitrix/cache/
 Allow: /bitrix/js/
 Allow: /bitrix/templates/
 Allow: /bitrix/panel/
+Disallow: /test/
 Host: https://skte.pro
 Sitemap: https://skte.pro/sitemap.xml
