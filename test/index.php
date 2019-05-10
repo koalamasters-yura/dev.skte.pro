@@ -7,7 +7,6 @@ $APPLICATION->SetTitle("Test GIT");
     dev branch changes
 </div>
 
-<div>master branch</div>
-<div>dev branch</div>
+<div class="test-branches">MASTER</div>
 
 <?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>
